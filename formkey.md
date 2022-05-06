@@ -10,4 +10,4 @@ ex (**form 2-1D - 3)**
 
 **(-3)** *3* - shows the layer in a folder within a channel
 
-**(2-)** *2* - shows the folder number with a channel path
+**(2-)** *2* - shows the folder number with a channel path (only applies if previous layer has multiple folders)
