@@ -4,4 +4,4 @@ reskin, maybe will work on anti-extension viewer
 
 open source backend proxy; feel free to host on any LS or domain
 
-credits to corrosion backend :)
+credits to corrosion backend :) ~ wip
