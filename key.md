@@ -1,9 +1,11 @@
 **forms created to serve as a sort of coordinate system- determining where a specific document is located
 
-ex root base (2A-1)
+ex (form 1D - 3)
 
-first digit; folder package number (one usually nodemodules; two usually public)
+(form) - term; easy search
 
-second digit; folder layer number 
+(1D) *1* - shows channels; channel 1 - "node_modules", channel 2 - "public"
 
-first digit letter; corrosponding folder sector
+(1D) *D* - shows folder number within a layer of a channel
+
+(-3) *3* - shows the layer in a folder within a channel
