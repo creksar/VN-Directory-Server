@@ -1,6 +1,6 @@
-ex root base (2-1)
+ex root base (2A-1)
 
-first digit; folder package number
+first digit; folder package number (one usually nodemodules; two usually public)
 
 second digit; folder layer number 
 
